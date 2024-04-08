@@ -4,7 +4,7 @@ pipeline {
   environment {
     PORT = '5002' 
     IMAGE_NAME = 'sem-challenge-back-nest' 
-    APP_NAME = 'SEM-CHALLENGE-BACK-APP' 
+    APP_NAME = 'SEM-CHALLENGE-BACK-NEST-APP' 
   }
   
   stages {
